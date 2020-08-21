@@ -1,8 +1,8 @@
 # Proffy Education
 
-<h2>Next Level Week #2 Node.js | ReactJS | React Native</h2>
+<h2 syle="text-align: center;">Next Level Week #2 Node.js | ReactJS | React Native</h2>
 
-<img src="https://github.com/luis-borges/proffy-education/blob/master/images/mockup.png" alt="PMockup da Aplicação" style="max-width:100%;">
+<img src="https://github.com/luis-borges/proffy-education/blob/master/web/src/assets/images/mockup.png" alt="PMockup da Aplicação" style="max-width:100%;">
 
 ## Sobre
 
